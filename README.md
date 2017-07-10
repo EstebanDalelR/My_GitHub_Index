@@ -21,3 +21,17 @@ Another short lived idea. A tinder clone for food.
 Another short lived project that died because other people left the country.
 10. [ComputationalInfraestructureExecises](https://github.com/EstebanDalelR/ComputationalInfraestructureExecises):
 A class repo that I didn't use as my partner had set up one first.
+11. [Taller1Infracomp](https://github.com/EstebanDalelR/Taller1Infracomp):
+Another class repo.
+12. [VimForDummies](https://github.com/EstebanDalelR/VimForDummies):
+I learned Vim, this repo is to help others do the same.
+13. [GoExperiments](https://github.com/EstebanDalelR/GoExperiments):
+I learned Go, this is the repo where I keep everything.
+14. [deadbolt-2-guide](https://github.com/EstebanDalelR/deadbolt-2-guide):
+I corrected some grammar, orthography and style errors for this Open Source project.
+15. [AngelHack2017](https://github.com/EstebanDalelR/AngelHack2017):
+We participated in this hackathon.
+16. [LearningPythonTheHardWay](https://github.com/EstebanDalelR/LearningPythonTheHardWay):
+I learned Python, this repo is to help others do the same.
+17. [RollABall](https://github.com/EstebanDalelR/RollABall):
+My first unity project.

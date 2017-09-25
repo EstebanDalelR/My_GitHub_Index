@@ -35,3 +35,9 @@ We participated in this hackathon.
 I learned Python, this repo is to help others do the same.
 17. [RollABall](https://github.com/EstebanDalelR/RollABall):
 My first unity project.
+18. [LearningSources](https://github.com/EstebanDalelR/learningSources):
+Where to learn pretty much anything software related (That I have found).
+19. [GitHubFollowerList](https://github.com/EstebanDalelR/exam1webdev):
+Exam for my web development class, a gh follower list made with React, Express, Node and Mongo.
+20. [Lanlord](https://github.com/EstebanDalelR/lanlord2):
+Project for web development class, an admin panel for landlords, made with React, Express, Node and Mongo.
